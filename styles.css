@@ -34,15 +34,15 @@
 }
 
 .quarter {
-    flex: 1;
+    width: 25%;
 }
 
 .half {
-    flex: 2;
+    width: 50%;
 }
 
 .three-quarter {
-    flex: 3;
+    width: 75%;
 }
 
 .nav-list {
